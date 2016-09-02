@@ -1,0 +1,19 @@
+name: CZOLGchat
+main: pl.czolg.chat.Main
+version: 1.7.10
+author: Czolg
+commands:
+   cc:
+permissions:
+   cc.chat_bypass:
+      default: false
+   cc.advert_bypass:
+      default: false
+   cc.advert_info:
+      default: false
+   cc.chaton:
+      default: false
+   cc.chatoff:
+      default: false
+   cc.clear:
+      default: false

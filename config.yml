@@ -1,0 +1,7 @@
+blocked:
+  - pl
+  - PL
+allowed:
+  - forum.tavros.pl
+  - ts.tavros.pl
+  - tavros.pl
